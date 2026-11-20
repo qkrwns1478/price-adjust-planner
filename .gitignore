@@ -1,0 +1,12 @@
+.venv/
+.vscode/
+.claude/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/
+chroma_db/
+docs/*.pdf
+
+.env*
+!.env.example
